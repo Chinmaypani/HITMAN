@@ -2,6 +2,6 @@ package chinmay;
 
 public class chinu {
 	public static void main(String[] args) {
-	System.out.println("Hello bro");
+	System.out.println("Hello chinu");
 	}
 }
